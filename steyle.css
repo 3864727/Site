@@ -10,7 +10,7 @@ body {
     display: flex;
     flex-direction: column;
     height: 100%;
-    background-image: url(967233226.jpg);
+    background-image: url(967233226.jpeg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -19,7 +19,7 @@ body {
     color: rgb(255, 255, 255);
 }
 header {
-    background-color: rgb(107, 102, 102);
+    background-color: #1f9136;
     padding: 15px;
     text-align: center;
 }
@@ -34,7 +34,7 @@ header {
 }
 .menu a {
     text-decoration: none;
-    background-color: rgb(107, 102, 102);
+    background-color:  #1f9136;
     padding: 8px;
     margin-top: 7px;
     display: block;
@@ -49,7 +49,7 @@ header {
 
 }
 .right {
-    background-color: rgb(107, 102, 102);
+    background-color: #1f9136);
     float: left;
     width: 20%;
     padding: 15px;
@@ -58,7 +58,7 @@ header {
 }
 footer {
     flex-shrink: 0;
-    background-color: rgb(107, 102, 102);
+    background-color:  #1f9136;
     text-align: center;
     padding: 10px;
     margin-top: 7px;
